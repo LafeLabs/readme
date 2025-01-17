@@ -12,3 +12,7 @@ This is a self-replicating Readme file.  Install a local web server using [XAMPP
  - [fork.html](fork.html)
  - [../](../)
  - [http://localhost/readme/](http://localhost/readme/)
+ 
+![](screenshot-dark.png)
+
+![](screenshot-light.png)
